@@ -1,0 +1,9 @@
+numpy
+scipy
+pickle
+nltk==3.2.5
+sklearn
+six==1.11.0
+rouge==1.0.0
+git+https://github.com/Maluuba/nlg-eval.git@master
+typing==3.6.2
