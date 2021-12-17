@@ -3,8 +3,6 @@ Quality Assurance for Automated Commit Message Generation
 
 Accepted by SANER2021
 
-# Note
-Since we use Differential Evolution(DE) to tune the threshold in QAcom, the reusult will be a little different from the paper.
 
 ## Structure
 - data: Cleaned dataset, Top1000 dataset, Top 2000 dataset
